@@ -1,11 +1,9 @@
 # Lab11Web_PemWeb2
 
-|             |                        |     |
-| ----------- | ---------------------- | --- |
-| Nama        | Muhammad Rizqi Maulana |
-| NIM         | 312210360              |
-| Kelas       | TI.22.A.4              |
-| Mata Kuliah | Pemrograman Web 2      |
+Nama            : Abid Lu'ay Raihan Taufik
+NIM            :  312210360              
+Kelas          :  TI.22.A.4              
+Mata Kuliah    :  Pemrograman Web 2      
 
 # CodeIgniter 4 Framework
 
