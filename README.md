@@ -1,4 +1,4 @@
-# Lab11Web_PemWeb2
+# Lab11_WEB2
 
 Nama            : Abid Lu'ay Raihan Taufik
 NIM            :  312210360              
